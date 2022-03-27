@@ -18,7 +18,7 @@
 - Pick the format of your choice (.csv, .xlsx, .sql, .tsv)    
 ‼️ **In the case of .sql format, change to your account username/password and db name. The associated DB table will be created automatically**   
   
-## Class methods worth mention
+## Class methods worth mentioning
 ### :large_orange_diamond: dfi.get_data(self)  
 This method, at first, checks if the given filename is already locally downloaded. If not, the inner method *download_file(url, filename)* is executed and with the help of *urlretrieve()* function downloads the associated file. Then, user is asked to give the two countries of his choice, processes the data (according to the above) and loads them to a *pandas DataFrame*.
 
@@ -33,3 +33,8 @@ This method stores locally a file of the proccessed data with the format of our 
 
 ## Limitations
 :no_entry: **The initial downloadable URL must be in excel format**
+
+## Execution Examples
+1. photo1
+2. photo2
+3. photo3
