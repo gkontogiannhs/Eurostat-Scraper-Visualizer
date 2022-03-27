@@ -36,5 +36,5 @@ This method stores locally a file of the proccessed data with the format of our 
 
 ## Execution Examples
 ![alt text](https://github.com/gkontogiannhs/Eurostat-Visualizer/blob/main/exe_exa_images/img1.png)
-![alt text](https://github.com/gkontogiannhs/Eurostat-Visualizer/blob/main/exe_exa_images/img1.png)
-![alt text](https://github.com/gkontogiannhs/Eurostat-Visualizer/blob/main/exe_exa_images/img1.png)
+![alt text](https://github.com/gkontogiannhs/Eurostat-Visualizer/blob/main/exe_exa_images/img2.png)
+![alt text](https://github.com/gkontogiannhs/Eurostat-Visualizer/blob/main/exe_exa_images/img3.png)
