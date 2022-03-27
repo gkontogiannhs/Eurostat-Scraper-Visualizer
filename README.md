@@ -29,7 +29,7 @@ This method automatically scrapes and returns the associated title of the datase
 This method, for every downloaded-proccessed file, creates a histogram which y-axis label is autocompoleted by dfi.get_title(self)
 
 ### :large_orange_diamond: dfi.export_data(self, file_format)
-This method stores locally a file with the proccessed data with the format of our choice (.csv, .xlsl, .tsv, .json, .sql). In *.sql* case, it auto creates a DB table. In each case, the exported file/DB table, is named after the get_title()
+This method stores locally a file of the proccessed data with the format of our choice (.csv, .xlsl, .tsv, .json, .sql). In *.sql* case, it auto creates a DB table. In each case, the exported file/DB table, is named after the get_title() automatically.
 
 ## Limitations
 :no_entry: **The initial downloadable URL must be in excel format**
