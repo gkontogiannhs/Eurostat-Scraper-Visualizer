@@ -23,7 +23,7 @@
 This method, at first, checks if the given filename is already locally downloaded. If not, the inner method *download_file(url, filename)* is executed and with the help of *urlretrieve()* function downloads the associated file. Then, user is asked to give the two countries of his choice, processes the data (according to the above) and loads them to a *pandas DataFrame*.
 
 ### :large_orange_diamond: dfi.get_title(self)  
-This method automatically scrapes and returns the associated title of the dataset once every *dfi* isntance is a file proccess
+This method automatically scrapes and returns the associated title of the dataset, once every *dfi* isntance is a file proccess
 
 ### :large_orange_diamond: dfi.plot_data(self)  
 This method, for every downloaded-proccessed file, creates a histogram which y-axis label is autocompoleted by dfi.get_title(self)
