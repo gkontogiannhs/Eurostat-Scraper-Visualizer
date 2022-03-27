@@ -35,6 +35,6 @@ This method stores locally a file of the proccessed data with the format of our 
 :no_entry: **The initial downloadable URL must be in excel format**
 
 ## Execution Examples
-1. photo1
+![alt text](https://github.com/gkontogiannhs/Eurostat-Visualizer/edit/main/)
 2. photo2
 3. photo3
